@@ -160,5 +160,6 @@
     <string name="pref_group_title_face_mesh" translatable="false">Face Mesh Detection</string>
     <string name="pref_title_face_mesh_use_case" translatable="false">Use Case</string>
     <string name="pref_key_face_mesh_use_case" translatable="false">face_mesh_use_case</string>
+    <string name="Text" translatable="false">Camera Integrated\nwith\n ChatGPT</string>
 
 </resources>
