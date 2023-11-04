@@ -22,11 +22,17 @@ Access a wealth of information and responses to satisfy your queries and curiosi
 Technologies Employed:
 
 Android Studio
+
 Python Flask
-Nginx (Reverse Proxy):
+
+Nginx (Reverse Proxy)
+
 Docker
+
 Microsoft Azure
+
 ML Kit
+
 CertBot (Certificate)
 Retrofit Builder
 
