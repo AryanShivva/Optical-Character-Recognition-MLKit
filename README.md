@@ -34,6 +34,17 @@ Microsoft Azure
 ML Kit
 
 CertBot (Certificate)
+
 Retrofit Builder
+
+
+
+https://github.com/AryanShivva/Optical-Character-Recognition-MLKit/assets/124916476/da12e22a-b6ef-44ac-92a6-88c1ab51e34f
+
+
+
+https://github.com/AryanShivva/Optical-Character-Recognition-MLKit/assets/124916476/6cbbf0fc-431b-4d3e-bec3-9596e4e69f62
+
+
 
 
